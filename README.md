@@ -1,7 +1,7 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))])
+[![MasterHead]([[https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://media1.tenor.com/m/oFT_AckAEwoAAAAd/anime-typing.gif))])
 <h1 align="center">Hi 👋, I'm MANAR MARCHOUBE</h1>
 <h3 align="center">A passionate full stack developer from MOROCCO</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/oFT_AckAEwoAAAAd/anime-typing.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/oFT_AckAEwoAAAAd/anime-typing.gif](https://media1.tenor.com/m/oFT_AckAEwoAAAAd/anime-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manar-rch&label=Profile%20views&color=0e75b6&style=flat" alt="manar-rch" /> </p>
 
